@@ -1,0 +1,8 @@
+#img_logo{
+    height: 50px;
+    width: 50px;
+}
+#img_logo > img{
+    height: 50px;
+    width: 50px;
+}
