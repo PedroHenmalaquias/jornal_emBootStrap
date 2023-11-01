@@ -10,9 +10,13 @@
     border-radius: 10px;
 }
 .efeito_escala :hover{
-    transform: scale(1.02);
+    transform: scale(1.005);
+    cursor: pointer;
 }
 .tam-imagens{
     width: 100%;
-    height: 259px;
+    height: 250px;
+}
+a{
+    color: white;
 }
